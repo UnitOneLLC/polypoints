@@ -36,7 +36,10 @@ let shapes: [RouteShape] = [
     RouteShape(
         encoded: "qyl|FvyinLfBvBjBPvV}FfVgSv^wv@l]soAbJck@z`@{~Cpc@qbCln@_uB|c@iw@xqA_r@hZoFvBr@",
         shapeId: "SH_WH_OB"
-    )
+    ),
+    RouteShape(
+        encoded: "g|b}FhozoLuCw\\~gAqx@tsGwyEz[yThMaV`zH_h`@rQg\\tBgQm@_[v@cOhGmO|GkZ`i@}}@nd@ogAfaCw~Mtd@sv@hx@qd@pb@iRvP}CbB\\",
+        shapeId: "SH_NB_OB")
 ]
 
 func main() {
