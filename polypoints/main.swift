@@ -39,7 +39,13 @@ let shapes: [RouteShape] = [
     ),
     RouteShape(
         encoded: "g|b}FhozoLuCw\\~gAqx@tsGwyEz[yThMaV`zH_h`@rQg\\tBgQm@_[v@cOhGmO|GkZ`i@}}@nd@ogAfaCw~Mtd@sv@hx@qd@pb@iRvP}CbB\\",
-        shapeId: "SH_NB_OB")
+        shapeId: "SH_NB_OB"),
+    RouteShape(
+        encoded: "gjn{FnutnLrAd@\\xEuDxHkAlAkEbAyKpGeH~H`B`BbB|B|AhD|`@lc@vJjPnHfGzGhFtNrSxHdSpK|YxFhPlA~HSjFTpAvAhCp@xBoIhB]~@?t@mHxHTJ|GgIDoAVi@bImBg@iBuAkC[iANmFeA_IqJeXd@aCnTwS`Xub@tA}A~M{CjDgCbAeGw@hFq@jAmNgIoXk`@cC{DqL}X{@}EoCoFmBqDq@uCRyDUsDyFgDyD_EyIaLgBcEaIoF}G|IyGpLsAzCwBhCmCvCkCpE",
+        shapeId: "SH_12IT"),
+    RouteShape(
+        encoded: "gjn{FnutnLrAd@\\xEuDxHkAlAkEbAyKpGeH~H`B`BbB|B|AhD|`@lc@vJjPnHfGzGhFtNrSxHdSpK|YxFhPlA~HSjFTpAvAhCp@xBoIhB]~@?t@mHxHTJ",
+        shapeId: "SH_12SS")
 ]
 
 func main() {
